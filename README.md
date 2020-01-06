@@ -26,7 +26,7 @@ GIF created with [RecordIt](https://recordit.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Had trouble implementing a slider and using its floating input values. Therefore I stuck with the segmented control bar.
 
 ## License
 
